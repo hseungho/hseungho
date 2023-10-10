@@ -53,7 +53,7 @@
 </div>
 
 ## Careers
-- **(주)나눔비타민 RnD Team, Backend Engineer** (2023.07 - )
+- **나눔비타민 RnD Team, Backend Engineer** (2023.07 - )
 
 ## Experiences
 - **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10) 
