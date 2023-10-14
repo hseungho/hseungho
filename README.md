@@ -46,5 +46,5 @@ Backend | DevOps | Architect | MSA
   - 채팅 웹소켓 메시지 서버 설계 및 개발 [Github](https://github.com/gaaji/chat-message)
   - 채팅 상태관리(웹소켓 구독, 푸시알림, etc.) 서버 설계 및 개발 [Github](https://github.com/gaaji/chat-status-management)
 - Todo 모바일 애플리케이션 [Todoay]() 안드로이드 개발 (2022.07 - 2022.09) [Github](https://github.com/todoay/client-android)
-- 신동아화재 보험사 서비스 설계 및 개발 (2022.03 - 2022.12) [Github - Java CLI](https://github.com/Team-NS-22-1/Insurance-company) -> [Github - SpringBoot](https://github.com/Team-NS-22-2/api)
+- 보험사 시스템 설계 및 개발 (2022.03 - 2022.12) [Github - Java CLI](https://github.com/Team-NS-22-1/Insurance-company) -> [Github - SpringBoot](https://github.com/Team-NS-22-2/api)
 
