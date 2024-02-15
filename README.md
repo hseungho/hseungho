@@ -32,13 +32,13 @@ Backend | DevOps | Architect | MSA
 </div>
 
 ## Careers
-- **나눔비타민 RnD Team, Backend Engineer** (2023.07 - )
+- **나눔비타민 RnD / Backend Developer** (2023.07 - )
 
 ## Experiences
 - **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10) [Github](https://github.com/fosslight/fosslight)
 
 ## Projects
-- 블룸즈베리랩 [리버티52 온라인스토어](https://github.com/Liberty52) MSA 아키텍트, 백엔드 개발(2023.03 - ) [Liberty52](https://liberty52.com)
+- 블룸즈베리랩 [리버티52 온라인스토어](https://github.com/Liberty52) MSA 아키텍트, 백엔드 개발(2023.03 - 2023.12) [Liberty52](https://liberty52.com)
 - 명지대 인근 음식점 랜덤 추첨 모바일 애플리케이션 [이거머거](https://github.com/egomogo) API 서버 개발 (2023.07 - 2023.08) [Github](https://github.com/egomogo/api)
 - 당근마켓 클론코딩 [가지마켓](https://github.com/gaaji) MSA (2023.01 - 2023.03) 
   - 동네생활 서비스 설계 및 개발 [Github](https://github.com/gaaji/town-life)
