@@ -5,6 +5,7 @@
 ## About Me
 
 ### Education
+
 명지대학교 ICT 융합대학 융합소프트웨어학부 응용소프트웨어전공
 
 ### Objectives
@@ -39,6 +40,12 @@ Backend | DevOps | Architect | MSA
 
 ## Experiences
 - [[Github]](https://github.com/fosslight/fosslight) **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10)
+  - Contributed
+    - `MERGED` [Fix a typo at Url #896](https://github.com/fosslight/fosslight/pull/896)
+    - `MERGED` [Fix a typo of CoMail's getSndSeq comment #898](https://github.com/fosslight/fosslight/pull/898)
+    - `CLOSED` [Fix a typo at AutoIdService #901](https://github.com/fosslight/fosslight/pull/901)
+    - `MERGED` [Seperate Build and Deploy-demo from publish workflow #963](https://github.com/fosslight/fosslight/pull/963)
+    - `MERGED` [Fix the RUN script format of Dockerfile #971](https://github.com/fosslight/fosslight/pull/971)
 
 ## Projects
 - [[Github]](https://github.com/Liberty52) 블룸즈베리랩 리버티52 온라인스토어 MSA 아키텍트, 백엔드 개발(2023.03 - 2023.12)
