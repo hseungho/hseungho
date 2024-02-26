@@ -1,8 +1,11 @@
 # hseungho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhseungho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-명지대학교 ICT 융합대학 융합소프트웨어학부 응용소프트웨어전공
+**(주)나눔비타민 RnD / Backend Developer** (2023.07 - )
 
 ## About Me
+
+### Education
+명지대학교 ICT 융합대학 융합소프트웨어학부 응용소프트웨어전공
 
 ### Objectives
 Backend | DevOps | Architect | MSA
@@ -35,16 +38,18 @@ Backend | DevOps | Architect | MSA
 - **나눔비타민 RnD / Backend Developer** (2023.07 - )
 
 ## Experiences
-- **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10) [Github](https://github.com/fosslight/fosslight)
+- [[Github]](https://github.com/fosslight/fosslight) **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10)
 
 ## Projects
-- 블룸즈베리랩 [리버티52 온라인스토어](https://github.com/Liberty52) MSA 아키텍트, 백엔드 개발(2023.03 - 2023.12) [Liberty52](https://liberty52.com)
-- 명지대 인근 음식점 랜덤 추첨 모바일 애플리케이션 [이거머거](https://github.com/egomogo) API 서버 개발 (2023.07 - 2023.08) [Github](https://github.com/egomogo/api)
-- 당근마켓 클론코딩 [가지마켓](https://github.com/gaaji) MSA (2023.01 - 2023.03) 
-  - 동네생활 서비스 설계 및 개발 [Github](https://github.com/gaaji/town-life)
-  - 채팅 정적 리소스(채팅방, etc.) 서비스 설계 및 개발 [Github](https://github.com/gaaji/chat-api)
-  - 채팅 웹소켓 메시지 서버 설계 및 개발 [Github](https://github.com/gaaji/chat-message)
-  - 채팅 상태관리(웹소켓 구독, 푸시알림, etc.) 서버 설계 및 개발 [Github](https://github.com/gaaji/chat-status-management)
-- Todo 모바일 애플리케이션 [Todoay]() 안드로이드 개발 (2022.07 - 2022.09) [Github](https://github.com/todoay/client-android)
-- 보험사 시스템 설계 및 개발 (2022.03 - 2022.12) [Github - Java CLI](https://github.com/Team-NS-22-1/Insurance-company) -> [Github - SpringBoot](https://github.com/Team-NS-22-2/api)
+- [[Github]](https://github.com/Liberty52) 블룸즈베리랩 리버티52 온라인스토어 MSA 아키텍트, 백엔드 개발(2023.03 - 2023.12)
+- [[Github]](https://github.com/egomogo/api) 명지대 인근 음식점 랜덤 추첨 모바일 애플리케이션 이거머거 API 서버 개발 (2023.07 - 2023.08)
+- [[Github]](https://github.com/gaaji) 당근마켓 클론코딩 가지마켓 MSA (2023.01 - 2023.03) 
+  - [[Github]](https://github.com/gaaji/town-life) 동네생활 서비스 설계 및 개발
+  - [[Github]](https://github.com/gaaji/chat-api) 채팅 정적 리소스(채팅방, etc.) 서비스 설계 및 개발
+  - [[Github]](https://github.com/gaaji/chat-message) 채팅 웹소켓 메시지 서버 설계 및 개발
+  - [[Github]](https://github.com/gaaji/chat-status-management) 채팅 상태관리(웹소켓 구독, 푸시알림, etc.) 서버 설계 및 개발
+- [[Github]](https://github.com/todoay/client-android) Todo 모바일 애플리케이션 Todoay 안드로이드 개발 (2022.07 - 2022.09)
+- 보험사 시스템 설계 및 개발 (2022.03 - 2022.12)
+  - [[Github - Java CLI]](https://github.com/Team-NS-22-1/Insurance-company) (2022.03 - 2022.06)
+  - [[Github - SpringBoot]](https://github.com/Team-NS-22-2/api) (2022.09 - 2022.12)
 
