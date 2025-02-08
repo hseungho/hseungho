@@ -1,6 +1,6 @@
-# hseungho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhseungho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# hseungho
 
-**(주)나눔비타민 RnD / Backend Developer** (2023.07 - )
+**(주)나눔비타민 Backend Developer** (2023.07 - )
 
 ## About Me
 
@@ -15,9 +15,9 @@ Backend | DevOps | Architect | MSA
 
 ### Tech Stacks
 <div>
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>-->
 <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -38,27 +38,12 @@ Backend | DevOps | Architect | MSA
 </div>
 
 ## Careers
-- **나눔비타민 RnD / Backend Developer** (2023.07 - )
+- **나눔비타민 Backend Developer** (2023.07 - )
+  - (주)나눔비타민에서 나비얌 애플리케이션의 API 서버를 주로 개발하고 있어요
+  - 나비얌의 쿠폰, 포인트, 기프트카드 같은 프로모션 재화와 결제, 정산 등의 도메인을 담당하고 있고,  
+    빠르게 성장하는 비즈니스에 맞게 새로운 도메인들도 개발하고 있어요
+  - 빠르게 개발하기 위해 유지보수성이 좋은 소프트웨어 시스템을 설계하기 위해 노력하고  
+    다양한 시스템 아키텍처와 디자인 패턴들을 적용한 설계 및 리팩토링에 관심이 많아요
 
 ## Experiences
 - [[Github]](https://github.com/fosslight/fosslight) **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10)
-  - Contributed
-    - `MERGED` [Fix a typo at Url #896](https://github.com/fosslight/fosslight/pull/896)
-    - `MERGED` [Fix a typo of CoMail's getSndSeq comment #898](https://github.com/fosslight/fosslight/pull/898)
-    - `CLOSED` [Fix a typo at AutoIdService #901](https://github.com/fosslight/fosslight/pull/901)
-    - `MERGED` [Seperate Build and Deploy-demo from publish workflow #963](https://github.com/fosslight/fosslight/pull/963)
-    - `MERGED` [Fix the RUN script format of Dockerfile #971](https://github.com/fosslight/fosslight/pull/971)
-
-## Projects
-- [[Github]](https://github.com/Liberty52) 블룸즈베리랩 리버티52 온라인스토어 MSA 아키텍트, 백엔드 개발(2023.03 - 2023.12)
-- [[Github]](https://github.com/egomogo/api) 명지대 인근 음식점 랜덤 추첨 모바일 애플리케이션 이거머거 API 서버 개발 (2023.07 - 2023.08)
-- [[Github]](https://github.com/gaaji) 당근마켓 클론코딩 가지마켓 MSA (2023.01 - 2023.03) 
-  - [[Github]](https://github.com/gaaji/town-life) 동네생활 서비스 설계 및 개발
-  - [[Github]](https://github.com/gaaji/chat-api) 채팅 정적 리소스(채팅방, etc.) 서비스 설계 및 개발
-  - [[Github]](https://github.com/gaaji/chat-message) 채팅 웹소켓 메시지 서버 설계 및 개발
-  - [[Github]](https://github.com/gaaji/chat-status-management) 채팅 상태관리(웹소켓 구독, 푸시알림, etc.) 서버 설계 및 개발
-- [[Github]](https://github.com/todoay/client-android) Todo 모바일 애플리케이션 Todoay 안드로이드 개발 (2022.07 - 2022.09)
-- 보험사 시스템 설계 및 개발 (2022.03 - 2022.12)
-  - [[Github - Java CLI]](https://github.com/Team-NS-22-1/Insurance-company) (2022.03 - 2022.06)
-  - [[Github - SpringBoot]](https://github.com/Team-NS-22-2/api) (2022.09 - 2022.12)
-
