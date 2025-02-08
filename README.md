@@ -47,3 +47,4 @@ Backend | DevOps | Architect | MSA
 
 ## Experiences
 - [[Github]](https://github.com/fosslight/fosslight) **Open Source SW Contribution Academy - FOSSLight** (2023.07 - 2023.10)
+  - 2023 OSSCA 오픈소스 컨트리뷰션 아카데미 특별상(FOSSLight Hub팀), 2023년 12월 01일, 한국IT비즈니스진흥협회.
